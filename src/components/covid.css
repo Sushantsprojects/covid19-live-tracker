@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(2, 2, 66);
+}
+
+h1{
+    text-align: center;
+    font-size: 2rem;
+    color:rgb(240, 6, 6);
+}
+h2{
+    text-align: center;
+    font-size:2.5rem;
+    color:rgb(245, 240, 240);
+}
+h2 span{
+    color:rgb(50, 53, 212);
+}
+
+.card{
+    background-color: rgb(124, 170, 240);
+    margin-left:5rem;
+    margin-right:5rem;
+    margin-bottom:1rem;
+    text-align: center;
+    padding:0.1rem;
+    border-radius:0.4rem;
+}
+p span{
+    font-size: 0.7rem;
+    color:rgb(195, 247, 9);
+}
+p{
+    font-size:1.3rem;
+    color:rgb(3, 41, 92);
+}
+footer{
+    background-color: teal;
+    height:4rem;
+}
+h4{
+    padding-top:1rem;
+    text-align: center;
+    color:rgb(245, 242, 241);
+}
